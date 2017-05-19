@@ -1,4 +1,4 @@
-# AppControlCasa
+﻿# AppControlCasa
 
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
@@ -39,8 +39,7 @@ Esta aplicacion realizara la simulacion de ciertos aparatos y relizara diferente
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Pilar Carmona Diego (@Pilucas96)
 
 ### Materia(s)
 - Programación Orientada a Objetos
