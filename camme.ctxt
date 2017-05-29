@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=camme
+comment0.text=\r\n\ \ En\ esta\ clase\ sirve\ es\ hija\ de\ la\ funci\u00F3n\ prender\ que\ esto\ nos\ permite\ cambiar\ el\r\n\ \ en\ canal\ en\ el\ que\ se\ encuentra\ la\ televisi\u00F3n\r\n\ @author\ (Diego)\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Se\ llama\ al\ constructor\ para\ que\ este\ este\ a\ la\ espera\ e\ la\ acci\u00F3n\r\n
+comment2.params=
+comment2.target=void\ bajar()
+comment2.text=\r\n\ En\ este\ constructor\ se\ realiza\ unael\ cambio\ de\ canal\ mediante\ el\ teclado\r\n\ presionando\ la\ tecla\ arriba\ y\ abajo\ y\ estas\ al\ momento\ de\ ser\ cambiadas\ llaman\ a\ la\ funcion\r\n\ padre\ y\ si\ se\ selecciona\ una\ tecla\ y\ este\ ya\ no\ tiene\ mas\ canalles\ vuelve\ al\ inicio\ o\ al\r\n\ \r\n
+numComments=3
