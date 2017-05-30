@@ -6,41 +6,24 @@
   
   ### Descripción del juego/aplicación
  -La descripción del juego/aplicación es ...
- +Esta aplicacion realizara la simulacion de ciertos aparatos y relizara diferentes acciones dpenediendo que aparato desea controlar,esto puede ser sonidos o solamentebel cambio de un mundo a otrom...
+ +Esta aplicacion realizara la simulacion de ciertos aparatos y relizara diferentes acciones dpenediendo que aparato desea controlar,esto puede ser sonidos o solamente el cambio de un mundo a otro...
   
   ### Clases principales y sus características
-  1. Clase 1
- * caracteristica1
- * caracteristica2
- * caracteristica3
+  1. Boton
+ * Cambio el escenario.
+ * Ubicacion actual
  
- 2. Clase 2
- * caracteristica1
- * caracteristica2
- * caracteristica3
- 
- 3. Clase 3
- * caracteristica1
- * caracteristica2
- * caracteristica3
- 
- 4. Clase 4
- * caracteristica1
- * caracteristica2
- * caracteristica3
- 
- 5. Clase 5
- * caracteristica1
- * caracteristica2
- * caracteristica3
+ 2. Prender
+ * Enciende el sonido que se debe reproducir
+ * Detiene el sonido en cierto punto
+
  
  ### Diagrama de clases
  ![Diagrama de clases](url-del-diagrama.png)
  
  ### Autor(es)
  El autor(es) del proyecto son:
- - Nombre completo del autor 1 (@nombreUsuarioGitHub)
- - Nombre completo del autor 2 (@nombreUsuarioGitHub)
+ - Pilar Carmona Diego (@Pilucas96)
  
  ### Materia(s)
  - Programación Orientada a Objetos
