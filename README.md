@@ -1,4 +1,4 @@
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![App Casa Inteligente](https://www.google.com.mx/search?q=casa+inteligente&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjagfvo2ZbUAhVqzoMKHfiiBI8Q_AUIBigB&dpr=1&biw=1360&bih=662#imgrc=occqB72udDNDXM:)
   
   ### Objetivo del juego/aplicación
  -El objetivo del juego/aplicación es ...
