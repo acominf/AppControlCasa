@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=tele
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ tele\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\r\n\ En\ este\ constructor\ se\ realiza\ una\ verificaci\u00F3n\ de\ que\ si\ se\ presiono\ el\ buton\ al\ ser\r\n\ verdadera\ esta\ llama\ a\ la\ funcion\ padre\ con\ un\ valor\ determinado\r\n
-numComments=2
