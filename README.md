@@ -19,7 +19,7 @@
 
  
  ### Diagrama de clases
- ![Diagrama de clases](url-del-diagrama.png)
+ [Diagrama de clases](https://yuml.me/33552557)
  
  ### Autor(es)
  El autor(es) del proyecto son:
