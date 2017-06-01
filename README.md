@@ -1,12 +1,11 @@
 ![App Casa Inteligente](http://blogmapfre.com/wp-content/uploads/2015/07/casa-inteligente.jpg)
   
   ### Objetivo del juego/aplicación
- -El objetivo del juego/aplicación es ...
- +Realizar una aplicación que simule los diferentes aparatos a los que tiene acceso con esta aplicacion ...
+ -El objetivo de la aplicación es ...
+ Realizar una aplicación que simule los diferentes aparatos a los que tiene acceso con esta aplicacion ...
   
   ### Descripción del juego/aplicación
- -La descripción del juego/aplicación es ...
- +Esta aplicacion realizara la simulacion de ciertos aparatos y relizara diferentes acciones dpenediendo que aparato desea controlar,esto puede ser sonidos o solamente el cambio de un mundo a otro...
+ La descripción de la aplicación es ...realizara la simulacion de ciertos aparatos y relizara diferentes acciones dpenediendo que aparato desea controlar,esto puede ser sonidos o solamente el cambio de un mundo a otro...
   
   ### Clases principales y sus características
   1. Boton
@@ -16,6 +15,10 @@
  2. Prender
  * Enciende el sonido que se debe reproducir
  * Detiene el sonido en cierto punto
+ 
+ 3. Canal
+ * Enciende o cambia el sonido dependiendo la operacion que este realiza
+ * Detiene el sonido del aparato
 
  
  ### Diagrama de clases
@@ -32,6 +35,7 @@
  - 2016-2017/II
  
  ### Universidad Autónoma de San Luis Potosí, 2017
+ ![UASLP](http://casaviva.uaslp.mx/imagenes/uaslp.png)![Facultad De ingenieria](http://casaviva.uaslp.mx/imagenes/facultad_ing.png)
  
  ### Link del video se encuentra en el siguiente link
  [Youtube](https://www.youtube.com/watch?v=ZnZmWshOOcY&feature=youtu.be)
